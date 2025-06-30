@@ -1,0 +1,32 @@
+﻿Site,Stream,D50_gravel_m,ustar_ms,emb,incip_or_final,extra_run
+1,Stroubles460,0.005,0.0170,0.96,I,N
+1,Stroubles460,0.005,0.0139,0.90,I,N
+1,Stroubles460,0.005,0.0069,0.92,I,Y
+5,NF Roanoke Holiness,0.025,0.0139,0.20,I,N
+6,Stroubles Bridge 1,0.011,0.0134,0.73,I,N
+7,Stroubles Bridge 2,0.017,0.0103,0.51,I,N
+8,Stroubles US BDA,0.020,0.0111,0.43,I,N
+9,Stroubles DS BDA,0.022,0.0155,0.46,I,N
+1,Stroubles460,0.005,0.0184,0.32,F,N
+1,Stroubles460,0.005,0.0298,0.18,F,N
+1,Stroubles460,0.005,0.0147,0.33,F,N
+1,Stroubles460,0.005,0.0294,0.19,F,N
+1,Stroubles460,0.005,0.0130,0.75,F,Y
+1,Stroubles460,0.005,0.0139,0.63,F,Y
+1,Stroubles460,0.005,0.0162,0.57,F,Y
+1,Stroubles460,0.005,0.0167,0.47,F,Y
+1,Stroubles460,0.005,0.0153,0.66,F,Y
+1,Stroubles460,0.005,0.0250,0.27,F,Y
+1,Stroubles460,0.005,0.0220,0.33,F,Y
+1,Stroubles460,0.005,0.0222,0.43,F,Y
+1,Stroubles460,0.005,0.0234,0.35,F,Y
+4,NF Roanoke Bburg CC,0.024,0.0327,0.13,F,N
+5,NF Roanoke Holiness,0.025,0.0276,0.15,F,N
+6,Stroubles Bridge 1,0.011,0.0201,0.37,F,N
+6,Stroubles Bridge 1,0.011,0.0297,0.19,F,N
+7,Stroubles Bridge 2,0.017,0.0193,0.34,F,N
+7,Stroubles Bridge 2,0.017,0.0307,0.27,F,N
+8,Stroubles US BDA,0.020,0.0182,0.22,F,N
+8,Stroubles US BDA,0.020,0.0282,0.17,F,N
+9,Stroubles DS BDA,0.022,0.0170,0.14,F,N
+9,Stroubles DS BDA,0.022,0.0309,0.18,F,N
